@@ -10,6 +10,9 @@ The HDO BOX APP, available on Hdoapp.com, is a versatile and user-friendly appli
 # User Interface and Experience:
 The HDO BOX APP boasts a sleek and intuitive interface that makes navigation a breeze. Users can effortlessly browse through various categories, including genres, trending titles, and new releases. The search function is efficient, allowing users to quickly find specific movies or TV shows. The app's layout is visually appealing, with high-quality thumbnails and detailed information about each title, enhancing the overall viewing experience.
 
+# Advanced Native Player
+The HDO BOX APP features an advanced native player with a range of functionalities comparable to MX Player. Users can take advantage of smooth playback, as well as seek, drag, and lock options. These features make it easy to navigate through content and customize the viewing experience, enhancing overall usability and ensuring a seamless, user-friendly experience.
+
 # Safety and Permissions:
 A notable advantage of the HDO BOX APP is that it does not require any dangerous permissions or access to sensitive data on your device, enhancing user safety and privacy. This focus on security ensures that users can enjoy their favorite content without compromising their personal information
 
