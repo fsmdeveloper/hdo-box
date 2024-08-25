@@ -21,7 +21,7 @@ More features will be coming soon. Please be patient, as I am a solo developer a
 
 
 
-The HDO BOX APP, available on Hdoapp.com, is a versatile and user-friendly application designed for streaming movies and TV shows on Android, iOS, and Smart TV platforms. With its promise of free access to a vast library of content, it has garnered significant attention among movie enthusiasts looking for a cost-effective streaming solution.
+The HDO BOX APP, available on **hdoapp.com** , is a versatile and user-friendly application designed for streaming movies and TV shows on Android, iOS, and Smart TV platforms. With its promise of free access to a vast library of content, it has garnered significant attention among movie enthusiasts looking for a cost-effective streaming solution.
 
 # User Interface and Experience:
 The HDO BOX APP boasts a sleek and intuitive interface that makes navigation a breeze. Users can effortlessly browse through various categories, including genres, trending titles, and new releases. The search function is efficient, allowing users to quickly find specific movies or TV shows. The app's layout is visually appealing, with high-quality thumbnails and detailed information about each title, enhancing the overall viewing experience.
