@@ -1,8 +1,24 @@
-# HDO BOX - Watch Free Movies and TV Series with app for Android, iOS and TV
-#### ✅LAST UPDATED (APK) - 2 August, 2024 
+# HDO BOX - Watch & Download Free Movies and TV Series with app for Android, iOS and TV
+#### ✅LAST UPDATED (APK) - 26 August, 2024 
 # [hdoapp.com](https://hdoapp.com)
 
 ![HDO BOX](https://hdoapp.com/images/banner_hdo_box.png)
+
+## Highlights
+
+### **Finally, the Download Feature Has Been Implemented**
+
+- You can now download any movie or TV series episode using HDO BOX.
+- You will be able to watch movies or series while downloading.
+- You can play movies or series with an external video player installed on your Android device.
+- You can play movies or series episodes while they are downloading in HDO BOX.
+- You can watch movies or series either after downloading or while they are still downloading.
+- The downloaded movies or series will be saved in your chosen location within your system storage and will remain there as long as you do not delete them.
+
+More features will be coming soon. Please be patient, as I am a solo developer and it takes time. I hope you understand. Thanks ❤️
+
+---
+
 
 
 The HDO BOX APP, available on Hdoapp.com, is a versatile and user-friendly application designed for streaming movies and TV shows on Android, iOS, and Smart TV platforms. With its promise of free access to a vast library of content, it has garnered significant attention among movie enthusiasts looking for a cost-effective streaming solution.
