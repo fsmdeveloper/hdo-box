@@ -6,17 +6,17 @@
 
 ## Highlights
 
-### **Finally, the Download Feature Has Been Implemented**
+### **Exciting Update: Download Feature Now Available!**
 
-- You can now download any movie or TV series episode using HDO BOX.
-- You will be able to watch movies or series while downloading.
-- You can play movies or series with an external video player installed on your Android device.
-- You can play movies or series episodes while they are downloading in HDO BOX.
-- You can watch movies or series either after downloading or while they are still downloading.
-- The downloaded movies or series will be saved in your chosen location within your system storage and will remain there as long as you do not delete them.
+We’re thrilled to announce that the download feature has been implemented in HDO BOX!
 
-More features will be coming soon. Please be patient, as I am a solo developer and it takes time. I hope you understand. Thanks ❤️
+- **Download Movies and TV Series:** You can now easily download any movie or TV series episode directly using HDO BOX.
+- **Watch While Downloading:** Enjoy watching movies or series while they are still downloading.
+- **External Player Support:** Play downloaded content with an external video player installed on your Android device.
+- **Flexible Playback:** Continue watching movies or series after downloading, or even while they are still downloading.
+- **Save and Store:** Downloaded movies and series will be saved in your chosen location within system storage and will remain there as long as you don’t delete them.
 
+### We’re working on more features to enhance your experience, so stay tuned! As a solo developer, I appreciate your patience and understanding as I continue to improve HDO BOX. Thank you for your support! ❤️
 ---
 
 
