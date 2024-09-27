@@ -1,5 +1,5 @@
 # HDO BOX - Watch & Download Free Movies and TV Series with app for Android, iOS and TV
-#### ✅LAST UPDATED (APK) - 23 September, 2024 
+#### ✅LAST UPDATED (APK) - 27 September, 2024 
 # [hdoapp.com](https://hdoapp.com)
 
 ![HDO BOX](https://hdoapp.com/images/banner_hdo_box.png)
