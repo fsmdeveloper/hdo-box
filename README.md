@@ -2,6 +2,7 @@
 #### ✅LAST UPDATED (APK) - 27 September, 2024 
 # [hdoapp.com](https://hdoapp.com)
 
+![HDO BOX](https://hdoapp.com/images/screenshot.png)
 ![HDO BOX](https://hdoapp.com/images/banner_hdo_box.png)
 
 ## Highlights
